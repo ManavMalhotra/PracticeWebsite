@@ -1,0 +1,99 @@
+body{
+	margin: 0;
+	background-color: #FFEDED
+}
+.main{
+	text-align: center;
+	padding-top: 130px;
+	background-color: #FFEDED;
+}
+.main-text{
+	color: #B3541E;
+	font-family: Brush Script MT, Cursive;
+	font-size: 2rem;
+}
+#margin{
+	margin-top: 0;
+}
+
+#mountain{
+	width: 800px;
+}
+#top-cloud{
+	width: 150px;
+	position: absolute;
+	left: 900px;
+  	bottom: 550px;
+
+}
+#bottom-cloud{
+	width: 150px;
+	position: absolute;
+}
+
+      /*      UNDER MAIN       */
+
+
+hr{
+	border-style: dotted;
+	color: #B3541E;
+	border-width: 15px 0 0 0;
+	margin-left: 40%;
+	margin-right: 40%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.Profile{
+	text-align: center;
+}
+
+
+.Profile-pic{
+	width: 25%;
+	border-radius: 50%;
+
+}
+
+
+
+.main1{
+	height: 200px;
+	background-color: #362222;
+	margin: 20px auto;
+	width: 1200px;
+	padding: 10px;
+	border-radius: 30px;
+}
+.main2{
+	height: 200px;
+	background-color: #362222;
+	margin: 20px auto;
+	width: 1200px;
+	padding: 10px;
+	border-radius: 30px;
+}
+.main3{
+	height: 200px;
+	background-color: #362222;
+	margin: 20px auto;
+	width: 1200px;
+	padding: 10px;
+	border-radius: 30px;
+}
+.img1{width: 150px;float: left;padding: 20px;}
+.img2{width: 150px;float: right;padding: 20px;}
+.img3{width: 150px;float: left;padding: 20px;}
+
+.p-under-img1{color: white; text-align: left; font-size: 2.5rem;font-family: Arial; margin: 0px ;padding: 20px 10px 0 0;}
+.p-under-img2{color: white; text-align: left; font-style: Arial ;font-size: 2.5rem;margin: 0px ;padding: 20px 10px 0 0;}
+.p-under-img3{color: white; text-align: left; font-style: Arial ;font-size: 2.5rem;margin: 0px ;padding: 20px 10px 0 0;}
+
+footer{
+	color: white;
+	display: grid;
+	padding: 20px 0;
+	justify-content: center;
+	background-color: #362222;
+}
